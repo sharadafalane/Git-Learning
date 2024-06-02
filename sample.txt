@@ -1,2 +1,3 @@
 I am learning git and github.
 I want to become proficient in it.
+I am gettin familier with it.
