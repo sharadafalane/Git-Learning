@@ -8,3 +8,4 @@ Git Commands
 7. merge - to take lastest remote changes from local to workspace
 8. pull - to take lastest changes from remote ro workspace (fetch+merge=pull)
 9. create PR - to merge the latest changes into main branch
+10. merge confilct-
