@@ -1,0 +1,10 @@
+Git Commands
+1. git init - to initialize the local git repository
+2. git clone - to clone particular remote repository on local machine
+3. git add - to stage the changes (this is optional step we can directly commit)
+4. commit - to commit our workspace changes on local envirnment
+5. push - to push local changes on remote repo
+6. fetch - to take lastest remote changes on local
+7. merge - to take lastest remote changes from local to workspace
+8. pull - to take lastest changes from remote ro workspace (fetch+merge=pull)
+9. create PR - to merge the latest changes into main branch
